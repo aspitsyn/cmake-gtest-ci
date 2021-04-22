@@ -10,6 +10,7 @@ set(CMAKE_INSTALL_RPATH "$ORIGIN/../lib")
 
 
 project(Task4)
+include(ExternalProject)
 
 enable_testing()
 
