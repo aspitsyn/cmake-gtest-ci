@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Dependency directories
+3rdparty/
+
+# Archives
+*.zip
